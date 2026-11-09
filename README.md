@@ -162,9 +162,9 @@ cd /home/dev && /home/dev/.local/bin/store-publish --server http://127.0.0.1:809
   --category "Outils" --developer Proxboss --accent-color "#22D3EE" \
   --apk /home/dev/projects/proxguard/android/app/build/outputs/apk/debug/app-debug.apk \
   --description "..." --changelog "Version initiale" \
-  --screenshot store/screenshot-dashboard.png \
-  --screenshot store/screenshot-guests.png \
-  --screenshot store/screenshot-alerts.png
+  --screenshot /home/dev/projects/proxguard/store/screenshot-dashboard.png \
+  --screenshot /home/dev/projects/proxguard/store/screenshot-guests.png \
+  --screenshot /home/dev/projects/proxguard/store/screenshot-alerts.png
 ```
 
 ## À valider sur un téléphone réel
