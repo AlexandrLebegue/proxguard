@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProxGuard</string>
+    <string name="notification_channel_name">Alertes ProxGuard</string>
+    <string name="notification_channel_description">Alertes de supervision de l\'hôte Proxmox VE</string>
+</resources>

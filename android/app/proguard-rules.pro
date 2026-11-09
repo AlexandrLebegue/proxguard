@@ -1,0 +1,2 @@
+-dontwarn org.json.**
+-keep class dev.proxboss.proxguard.data.model.** { *; }
