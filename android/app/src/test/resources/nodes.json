@@ -1,0 +1,1 @@
+{"data":[{"node":"pve","level":"","status":"online","mem":19763875840,"type":"node","ssl_fingerprint":"71:69:05:C1:66:0B:2A:DE:54:24:2D:31:02:C1:B3:61:B6:DA:D6:12:47:53:94:DD:25:05:08:8A:F6:D4:A3:1B","maxdisk":68630765568,"id":"node/pve","disk":17436315648,"maxcpu":12,"maxmem":33570926592,"cpu":0.236297736916549,"uptime":532860}]}
